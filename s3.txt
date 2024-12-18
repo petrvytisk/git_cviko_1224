@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 -------------------------------------
+=======
+blabolalaolab
+pokus o zmeny
+>>>>>>> bed84bdd5eab75d0ae2c48e78728b26fb6c1ca5f
 první radek
 druhy radek
 treti radek
